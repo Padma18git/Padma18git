@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**Padma18git/Padma18git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Padmavati �
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Data Analyst passionate about analytics & business insights  
+- Experience with SQL, Excel, Power BI, Tableau, Python  
+- hands-on projects to improve my skills  
+
+### Tools & Technologies
+- **Languages:** SQL, Python  
+- **BI Tools:** Tableau, Power BI  
+- **Data Tools:** Excel, Power Query  
+- **Databases:** MySQL, PostgreSQL  
+
+### Projects
+- **Patient Flow Analysis Dashboard (Tableau)** – Data cleaning + interactive dashboard  
+- **Sales Data Analysis (Python + Power BI)** – Trends, forecasts, KPIs  
+- **Financial SQL Analysis** – Joins, CTEs, window functions  
+
+ **Connect with me:**  
+ • [Email](mailto: padmavbh@gmail.com)
+
