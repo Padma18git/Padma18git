@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Padmavati �
+# Hi, I'm Padmavati 
 
 ### About Me
 - Data Analyst passionate about analytics & business insights  
